@@ -11,7 +11,7 @@
 
 #### 1. [Universitas Amikom Yogyakarta](https://home.amikom.ac.id/) | Computer Science undergraduate | Yogyakarta `2023 - Expected 2026`
 
-#### 2. [SMA N 1 Patimuan](https://home.amikom.ac.id/) | MIPA | Cilacap `2020-2023`
+#### 2. [SMK 2 MANDIRI BALARAJA](https://home.amikom.ac.id/) | MULTIMEDIA | Tangerang `2020-2023`
   
 
 ## Projects Experience:
