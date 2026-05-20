@@ -62,5 +62,5 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/naufalatmajafaadihilah/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/naufalatmajafaadihilah/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/naoupal#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/naoupal#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/naoupal_#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/naoupal_#gh-dark-mode-only)
