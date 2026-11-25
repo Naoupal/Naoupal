@@ -6,6 +6,7 @@
 - 🤔 Looking to collaborate on beginner-friendly data analysis or machine learning projects
 - 💬 Always happy to chat—feel free to reach out about tech, data, or anything in between
 - 📫 Reach me at: naufalatmaja.f@gmail.com
+- 🌐 Portfolio: portofolio-naoupal.vercel.app
 
 ## Education:
 
